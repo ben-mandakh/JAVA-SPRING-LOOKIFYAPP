@@ -1,0 +1,23 @@
+
+h1{
+	text-align:center;
+	margin-top: 200px;
+	font-weight:bold;
+	font-size:85px;
+	color:white;
+	vertical-align:middle;
+}
+h4{
+	text-align:center;
+	font-size: 35px;
+}
+
+body{
+	background-color:#0D5152;
+}
+th{
+	color:white;
+}
+h2{
+	color:white;
+}
